@@ -23,6 +23,8 @@ How many nickels? 0
 How many pennies? 0
 Here is your espresso. Enjoy!
 ```
+![Output Screenshot](Output.png)
+
 
 ## Requirements
 
@@ -38,10 +40,12 @@ Here is your espresso. Enjoy!
 
 ## Project Structure
 
-| File      | Description                                |
-| --------- | ------------------------------------------ |
-| main.py   | Main program containing all logic          |
-| README.md | Project description and usage instructions |
+| File       | Description                                   |
+|------------|-----------------------------------------------|
+| main.py    | Main program file containing the core logic  |
+| README.md  | Project overview, setup, usage, and documentation  |
+| Output.png | Screenshot demonstrating the program output  |
+ 
 
 ## Contributing
 
