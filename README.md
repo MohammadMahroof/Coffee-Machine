@@ -1,6 +1,9 @@
 # Python Coffee Machine
 
-A simple command-line Python application that simulates a virtual coffee machine. Users can select drinks (espresso, latte, cappuccino), insert coins, and manage resources.
+[![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+
+A simple and educational command-line Python application that simulates a virtual coffee machine. Users can select drinks (espresso, latte, cappuccino), insert coins, and manage resources. This project is suitable for Python learners and those interested in simulating resource management systems.
 
 ## Features
 - Interactive CLI for drink selection
@@ -8,9 +11,18 @@ A simple command-line Python application that simulates a virtual coffee machine
 - Handles resources and notifies if ingredients are insufficient
 - Calculates, refunds, or charges the user based on payment
 - Tracks profit for sales
- 
+
 ## Demo
-Run locally:
+
+Below is an example interaction:
+
+What would you like? (espresso/latte/cappuccino):
+Please insert coins.
+How many quarters? 4
+How many dimes? 0
+How many nickels? 0
+How many pennies? 0
+Here is your espresso. Enjoy!
 
 ## Requirements
 
@@ -23,19 +35,24 @@ Run locally:
 3.  Run the program: python main.py
 4. Follow on-screen prompts to order coffee and insert coins.
 
+
 ## Project Structure
 
-| File      | Description                                  |
-| --------- | -------------------------------------------- |
-| main.py   | Main program containing all logic            |
-| README.md | Project description and usage instructions   |
+| File      | Description                                |
+| --------- | ------------------------------------------ |
+| main.py   | Main program containing all logic          |
+| README.md | Project description and usage instructions |
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue to discuss your proposal and ensure alignment.
 
 ## License
-[MIT](LICENSE)
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-[Mohammad Mahroof]
+
+[Mohammad Mahroof](https://github.com/MohammadMahroof) — Python Developer & Enthusiast
+
 
