@@ -1,9 +1,24 @@
-# Python Coffee Machine
+# Coffee Machine
 
-[![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A simple and educational command-line Python application that simulates a virtual coffee machine. Users can select drinks (espresso, latte, cappuccino), insert coins, and manage resources. This project is suitable for Python learners and those interested in simulating resource management systems.
+
+
+## Table of Contents
+
+- [Features](#features)
+- [Demo](#demo)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
+- [FAQ](#faq)
+- [Getting Help](#getting-help)
+
 
 ## Features
 - Interactive CLI for drink selection
@@ -30,21 +45,22 @@ Here is your espresso. Enjoy!
 
 - Python 3.x (No external dependencies required)
 
+
 ## Usage
 
 1. Clone the repository:  https://github.com/MohammadMahroof/Coffee-Machine.git
 2. Navigate to the project directory: cd Coffee-Machine
-3.  Run the program: python main.py
+3. Run the program: python main.py
 4. Follow on-screen prompts to order coffee and insert coins.
 
 
 ## Project Structure
 
-| File       | Description                                   |
-|------------|-----------------------------------------------|
-| main.py    | Main program file containing the core logic  |
-| README.md  | Project overview, setup, usage, and documentation  |
-| Output.png | Screenshot demonstrating the program output  |
+| File       | Description                                       |
+|------------|---------------------------------------------------|
+| main.py    | Main program file containing the core logic       |
+| README.md  | Project overview, setup, usage, and documentation |
+| Output.png | Screenshot demonstrating the program output       |
  
 
 ## Contributing
@@ -58,5 +74,20 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 [Mohammad Mahroof](https://github.com/MohammadMahroof) — Python Developer & Enthusiast
+
+
+## FAQ
+
+**Q: Can I customize drinks?**  
+A: Currently not, but feature requests are welcome.
+
+**Q: Does it support other currencies?**  
+A: No, only US coins are supported now.
+
+
+## Getting Help
+
+If you have any questions or issues, feel free to open an issue on this repository or contact me at [mohammadmahroof@29gmail.com].
+
 
 
