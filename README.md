@@ -3,8 +3,10 @@
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A simple and educational command-line Python application that simulates a virtual coffee machine. Users can select drinks (espresso, latte, cappuccino), insert coins, and manage resources. This project is suitable for Python learners and those interested in simulating resource management systems.
 
+This project is a simple and educational command-line Python application that simulates a virtual coffee machine. It allows users to select popular coffee drinks such as espresso, latte, and cappuccino, manage payment by inserting coins, and track ingredient resources to ensure the machine can fulfill the orders. The project demonstrates fundamental programming concepts including input handling, conditionals, resource management, and basic calculations.
+
+It is designed for Python learners to practice building interactive CLI applications and for anyone interested in exploring how vending machine logic can be implemented programmatically. Future enhancements could include adding more drink options, custom pricing, and more comprehensive resource tracking.
 
 ## Table of Contents
 
