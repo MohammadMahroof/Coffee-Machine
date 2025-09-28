@@ -13,9 +13,8 @@ A simple and educational command-line Python application that simulates a virtua
 - Tracks profit for sales
 
 ## Demo
-
 Below is an example interaction:
-
+```
 What would you like? (espresso/latte/cappuccino):
 Please insert coins.
 How many quarters? 4
@@ -23,6 +22,7 @@ How many dimes? 0
 How many nickels? 0
 How many pennies? 0
 Here is your espresso. Enjoy!
+```
 
 ## Requirements
 
